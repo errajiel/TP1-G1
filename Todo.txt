@@ -1,0 +1,15 @@
+Ecrire un programme permettant d'avoir comme parameter N entiers. Il retourn la somme de ces entiers.
+Input : java Exo1 2 7 8 6
+Output : 23	
+
+Ecrire un programme permettant de lire un entier puis il calcule sont factorielle.
+Input : java Exo2 4
+Output : 24
+
+Écrire un programme en JAVA qui prend en entrée un nombre entier et qui retourne le même nombre avec ses chiffres en doublon supprimés.
+Entrée : java Exo3 122345
+Sortie : 12345
+
+Ecrire un programme qui prend en argument un nombre réel et puis calcule la somme de ces chiffres en utilisant les methodes récursive.
+Input : java Exo4 5482
+Output : 5+4+8+2=19
